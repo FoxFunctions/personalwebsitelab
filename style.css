@@ -1,0 +1,50 @@
+div.header{
+margin: auto;
+width: 100%;
+border: 20px;
+padding: 10px;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div.header img{
+
+background-color: rgba(56, 123, 182, 0.144);
+padding: 20px;
+width: 400px;
+
+}
+
+.about-lists{
+    margin: auto;
+    width: 100%;
+    
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.Contact{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    text-align: center;
+}
+
+.portfolio{
+    margin: auto;
+    width: 100%;
+    border: 20px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    font-size: x-small;
+
+}
